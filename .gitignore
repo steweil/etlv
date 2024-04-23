@@ -1,0 +1,8 @@
+/.socket.dir
+/urd.db
+/workdirs
+/results
+__pycache__
+*.pyc
+/data
+.env
